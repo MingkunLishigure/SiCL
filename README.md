@@ -32,17 +32,16 @@ We evaluate MaskCL on Six datasets:
 | VC-Clothes| https://wanfb.github.io/dataset.html | 
 | DeepChange| https://github.com/PengBoXiangShang/deepchange | 
 
-📚**Remark**:
+:speech_balloon: **Remark**:
 
-:speech_balloon: In MaskCL, during the training process, it needs to prepare the original dataset along with the corresponding dataset of person masks.
+In MaskCL, during the training process, it needs to prepare the original dataset along with the corresponding dataset of person masks.
 
 The mask images used in the **MaskCL** are generated based on human parsing networks. 
 
 In this study, we employed [SCHP](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing) for pedestrian silhouette extraction. 
 
-We extend a warm invitation to researchers to venture into exploring diverse approaches in generating pedestrian semantic information and conducting experiments on MaskCL. 
-
-We are greatly anticipating the researchers' invaluable contributions in terms of sharing and providing feedback on their experimental outcomes!
+:heart: **We extend a warm invitation to researchers to venture into exploring diverse approaches in generating pedestrian semantic information and conducting experiments on MaskCL. 
+We are greatly anticipating the researchers' invaluable contributions in terms of sharing and providing feedback on their experimental outcomes!**
 
 
 After generating the corresponding mask image dataset, you should change the dataset path in **CMC.py** and **/utils/dataset/data/preprocessor.py**.
