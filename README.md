@@ -1,7 +1,5 @@
 # MaskCL: Semantic Mask-Driven Contrastive Learning for Unsupervised Person Re-Identification with Clothes Change
 
-The code of :**MaskCL: Semantic Mask-Driven Contrastive Learning for Unsupervised Person Re-Identification with Clothes Change**
-
  
 📚MaskCL focuses on a novel task: **unsupervised clothes changing person re-identification**. 
 
@@ -18,10 +16,10 @@ And to the best of our knowledge, **this is the first work of its kind in the do
 
 **Paper Link** 
 
-https://arxiv.org/abs/2305.13600
+📚https://arxiv.org/abs/2305.13600
 
 **Dataset**：
-We evaluate MaskCL on five datasets:
+📚We evaluate MaskCL on five datasets:
  
 | Dataset | Link |
 | ------- | ------- 
@@ -52,6 +50,6 @@ After generating the corresponding mask image dataset, you should change the dat
 sh run_code.sh
 ```
 
-We will release the model weight soon!
+📚We will release the model weight soon!
 
 
