@@ -3,8 +3,8 @@
  
 📚MaskCL focuses on a novel task: **unsupervised clothes changing person re-identification**. 
 
-📚We have achieved remarkably outstanding results!!!! 
-And to the best of our knowledge, **this is the first work of its kind in the domain of clothes changing person re-identification**!!!
+🚀We have achieved remarkably outstanding results!!!! 
+🚀And to the best of our knowledge, **this is the first work of its kind in the domain of clothes changing person re-identification**!!!
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maskcl-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-ltcc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-ltcc?p=maskcl-semantic-mask-driven-contrastive)
 
@@ -19,7 +19,8 @@ And to the best of our knowledge, **this is the first work of its kind in the do
 📚https://arxiv.org/abs/2305.13600
 
 **Dataset**：
-📚We evaluate MaskCL on five datasets:
+
+📚We evaluate MaskCL on Six datasets:
  
 | Dataset | Link |
 | ------- | ------- 
@@ -50,6 +51,6 @@ After generating the corresponding mask image dataset, you should change the dat
 sh run_code.sh
 ```
 
-📚We will release the model weight soon!
+🚀We will release the model weight soon!
 
 
