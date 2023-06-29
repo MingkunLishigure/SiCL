@@ -16,7 +16,10 @@ The code of :**MaskCL: Semantic Mask-Driven Contrastive Learning for Unsupervise
 https://arxiv.org/abs/2305.13600
 
 
-Train:
+**Train**:
 ```
 sh run_code.sh
 ```
+
+**Remark**:
+It should be noted that the mask images used in the **MaskCL** are generated based on human parsing networks. In this study, we employed [SCHP](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing) for pedestrian silhouette extraction. We extend a warm invitation to researchers to venture into exploring diverse approaches in generating pedestrian semantic information and conducting experiments on MaskCL. We are greatly anticipating the researchers' invaluable contributions in terms of sharing and providing feedback on their experimental outcomes!
