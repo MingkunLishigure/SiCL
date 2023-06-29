@@ -3,8 +3,9 @@
  
 📚MaskCL focuses on a novel task: **unsupervised clothes changing person re-identification**. 
 
-🚀We have achieved remarkably outstanding results!!!! 
-🚀And to the best of our knowledge, **this is the first work of its kind in the domain of clothes changing person re-identification**!!!
+:star: We have achieved remarkably outstanding results!!!! 
+
+:star: And to the best of our knowledge, **this is the first work of its kind in the domain of clothes changing person re-identification**!!!
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maskcl-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-ltcc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-ltcc?p=maskcl-semantic-mask-driven-contrastive)
 
