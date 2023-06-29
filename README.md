@@ -47,6 +47,8 @@ We extend a warm invitation to researchers to venture into exploring diverse app
 We are greatly anticipating the researchers' invaluable contributions in terms of sharing and providing feedback on their experimental outcomes!
 
 
+After generating the corresponding mask image dataset, you should change the dataset path in CMC.py and /utils/dataset/data/preprocessor.py.
+
 
 **Train**:
 ```
