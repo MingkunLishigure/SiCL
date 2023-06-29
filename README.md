@@ -33,7 +33,7 @@
 | DeepChange| https://github.com/PengBoXiangShang/deepchange | 
 
 **Remark**:
-In MaskCL, during the training process, it needs to prepare the original dataset along with the corresponding dataset of person masks.
+:star: In MaskCL, during the training process, it needs to prepare the original dataset along with the corresponding dataset of person masks.
 
 The mask images used in the **MaskCL** are generated based on human parsing networks. 
 
