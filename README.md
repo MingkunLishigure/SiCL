@@ -40,12 +40,20 @@ The mask images used in the **MaskCL** are generated based on human parsing netw
 
 In this study, we employed [SCHP](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing) for pedestrian silhouette extraction. 
 
+After generating the corresponding mask image dataset, you should change the dataset path in **CMC.py** and **/utils/dataset/data/preprocessor.py**.
+
+
+
+
+
+
+
 :heart: **We extend a warm invitation to researchers to venture into exploring diverse approaches in generating pedestrian semantic information and conducting experiments on MaskCL. 
 
 :heart:We are greatly anticipating the researchers' invaluable contributions in terms of sharing and providing feedback on their experimental outcomes!**
 
 
-After generating the corresponding mask image dataset, you should change the dataset path in **CMC.py** and **/utils/dataset/data/preprocessor.py**.
+
 
 
 :bulb:**Train**:
