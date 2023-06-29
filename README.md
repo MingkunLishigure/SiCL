@@ -3,13 +3,10 @@
 The code of :**MaskCL: Semantic Mask-Driven Contrastive Learning for Unsupervised Person Re-Identification with Clothes Change**
 
  
-
 MaskCL focuses on a novel task: **unsupervised clothes changing person re-identification**. 
 
-We have achieved remarkably outstanding results, and to the best of our knowledge, **this is the first work of its kind in the domain of clothes changing person re-identification**. 
-
-We warmly welcome and encourage fellow researchers to engage in enlightening discussions and exchanges on this topic!
-
+We have achieved remarkably outstanding results!!!! 
+And to the best of our knowledge, **this is the first work of its kind in the domain of clothes changing person re-identification**!!!
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maskcl-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-ltcc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-ltcc?p=maskcl-semantic-mask-driven-contrastive)
 
@@ -17,7 +14,7 @@ We warmly welcome and encourage fellow researchers to engage in enlightening dis
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maskcl-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-prcc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-prcc?p=maskcl-semantic-mask-driven-contrastive)
 
-
+We warmly welcome and encourage fellow researchers to engage in enlightening discussions and exchanges on this topic!!!
 
 **Paper Link** 
 
