@@ -13,5 +13,6 @@ https://arxiv.org/abs/2305.13600
 
 
 Train MaskCL:
-
+```
 sh run_code.sh
+```
