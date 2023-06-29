@@ -11,7 +11,7 @@ The code of :**MaskCL: Semantic Mask-Driven Contrastive Learning for Unsupervise
 
 
 
-** Paper Link ** 
+**Paper Link** 
 
 https://arxiv.org/abs/2305.13600
 
