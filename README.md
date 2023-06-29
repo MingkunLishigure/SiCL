@@ -1,7 +1,7 @@
 # MaskCL: Semantic Mask-Driven Contrastive Learning for Unsupervised Person Re-Identification with Clothes Change
 
  
-📚MaskCL focuses on a novel task: **unsupervised clothes changing person re-identification**. 
+MaskCL focuses on a novel task: **unsupervised clothes changing person re-identification**. 
 
 :star: We have achieved remarkably outstanding results!!!! 
 
@@ -13,15 +13,15 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maskcl-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-prcc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-prcc?p=maskcl-semantic-mask-driven-contrastive)
 
-📚We warmly welcome and encourage fellow researchers to engage in enlightening discussions and exchanges on this topic!!!
+:heart: We warmly welcome and encourage fellow researchers to engage in enlightening discussions and exchanges on this topic!!!
 
-**Paper Link** 
+📚**Paper Link** 
 
-📚https://arxiv.org/abs/2305.13600
+https://arxiv.org/abs/2305.13600
 
-**Dataset**：
+📚**Dataset**：
 
-📚We evaluate MaskCL on Six datasets:
+We evaluate MaskCL on Six datasets:
  
 | Dataset | Link |
 | ------- | ------- 
@@ -32,8 +32,8 @@
 | VC-Clothes| https://wanfb.github.io/dataset.html | 
 | DeepChange| https://github.com/PengBoXiangShang/deepchange | 
 
-**Remark**:
-:star: In MaskCL, during the training process, it needs to prepare the original dataset along with the corresponding dataset of person masks.
+📚**Remark**:
+In MaskCL, during the training process, it needs to prepare the original dataset along with the corresponding dataset of person masks.
 
 The mask images used in the **MaskCL** are generated based on human parsing networks. 
 
@@ -47,11 +47,11 @@ We are greatly anticipating the researchers' invaluable contributions in terms o
 After generating the corresponding mask image dataset, you should change the dataset path in **CMC.py** and **/utils/dataset/data/preprocessor.py**.
 
 
-**Train**:
+:bulb:**Train**:
 ```
 sh run_code.sh
 ```
 
-🚀We will release the model weight soon!
+:loudspeaker: We will release the model weight soon!
 
 
