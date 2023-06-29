@@ -24,12 +24,27 @@ We warmly welcome and encourage fellow researchers to engage in enlightening dis
 https://arxiv.org/abs/2305.13600
 
 **Dataset**：
-We test MaskCL on five datasets:
+We evaluate MaskCL on five datasets:
  
 | Dataset | Link |
 | ------- | ------- 
 | PRCC | https://www.isee-ai.cn/~yangqize/clothing.html|
-| LTCC | 单元格5 | 
+| LTCC | https://naiq.github.io/LTCC_Perosn_ReID.html | 
+| Celeb-ReID| https://github.com/Huang-3/Celeb-reID | 
+| Celeb-ReID-Light| https://github.com/Huang-3/Celeb-reID | 
+| VC-Clothes| https://wanfb.github.io/dataset.html | 
+| DeepChange| https://github.com/PengBoXiangShang/deepchange | 
+
+**Remark**:
+In MaskCL, during the training process, it needs to prepare the original dataset along with the corresponding dataset of person masks.
+
+The mask images used in the **MaskCL** are generated based on human parsing networks. 
+
+In this study, we employed [SCHP](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing) for pedestrian silhouette extraction. 
+
+We extend a warm invitation to researchers to venture into exploring diverse approaches in generating pedestrian semantic information and conducting experiments on MaskCL. 
+
+We are greatly anticipating the researchers' invaluable contributions in terms of sharing and providing feedback on their experimental outcomes!
 
 
 
@@ -38,5 +53,4 @@ We test MaskCL on five datasets:
 sh run_code.sh
 ```
 
-**Remark**:
-It should be noted that the mask images used in the **MaskCL** are generated based on human parsing networks. In this study, we employed [SCHP](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing) for pedestrian silhouette extraction. We extend a warm invitation to researchers to venture into exploring diverse approaches in generating pedestrian semantic information and conducting experiments on MaskCL. We are greatly anticipating the researchers' invaluable contributions in terms of sharing and providing feedback on their experimental outcomes!
+
