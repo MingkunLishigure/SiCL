@@ -4,9 +4,9 @@ The code of :**MaskCL: Semantic Mask-Driven Contrastive Learning for Unsupervise
 
  
 
-MaskCL focuses on a novel task: unsupervised clothes changing person re-identification. 
+MaskCL focuses on a novel task: **unsupervised clothes changing person re-identification**. 
 
-We have achieved remarkably outstanding results, and to the best of our knowledge, this is the first work of its kind in the domain of clothes changing person re-identification. 
+We have achieved remarkably outstanding results, and to the best of our knowledge, **this is the first work of its kind in the domain of clothes changing person re-identification**. 
 
 We warmly welcome and encourage fellow researchers to engage in enlightening discussions and exchanges on this topic!
 
