@@ -23,6 +23,15 @@ We warmly welcome and encourage fellow researchers to engage in enlightening dis
 
 https://arxiv.org/abs/2305.13600
 
+**Dataset**：
+We test MaskCL on five datasets:
+ 
+| Dataset | Link |
+| ------- | ------- 
+| PRCC | https://www.isee-ai.cn/~yangqize/clothing.html|
+| LTCC | 单元格5 | 
+
+
 
 **Train**:
 ```
