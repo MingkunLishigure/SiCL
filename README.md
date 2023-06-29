@@ -16,7 +16,7 @@ The code of :**MaskCL: Semantic Mask-Driven Contrastive Learning for Unsupervise
 https://arxiv.org/abs/2305.13600
 
 
-Train MaskCL:
+Train:
 ```
 sh run_code.sh
 ```
