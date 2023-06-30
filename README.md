@@ -1,7 +1,7 @@
 # MaskCL: Semantic Mask-Driven Contrastive Learning for Unsupervised Person Re-Identification with Clothes Change
 
  
-:rocket: MaskCL focuses on a novel task: **unsupervised clothes changing person re-identification**. 
+:rocket: MaskCL is dedicated to an innovative task: **unsupervised clothes changing person re-identification**. 
 
 :star: We have achieved remarkably outstanding results!!!! 
 
