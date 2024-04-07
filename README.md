@@ -3,14 +3,14 @@
  
 :rocket: SiCL is dedicated to an innovative task: **unsupervised clothes changing person re-identification**. 
 
-:star: Within the realm of clothing changing person re-identification, MaskCL proudly stands as the inaugural unsupervised methodology to attain commendable outcomes across a multitude of datasets!!!
+:star: Within the realm of clothing changing person re-identification, SiCL proudly stands as the inaugural unsupervised methodology to attain commendable outcomes across a multitude of datasets!!!
 
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maskcl-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-ltcc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-ltcc?p=maskcl-semantic-mask-driven-contrastive)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/SiCL-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-ltcc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-ltcc?p=SiCL-semantic-mask-driven-contrastive)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maskcl-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-vc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-vc?p=maskcl-semantic-mask-driven-contrastive)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/SiCL-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-vc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-vc?p=SiCL-semantic-mask-driven-contrastive)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maskcl-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-prcc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-prcc?p=maskcl-semantic-mask-driven-contrastive)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/SiCL-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-prcc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-prcc?p=SiCL-semantic-mask-driven-contrastive)
 
 :heart: We warmly welcome and encourage fellow researchers to engage in enlightening discussions and exchanges on this topic!!!
 
@@ -20,7 +20,7 @@ https://arxiv.org/abs/2305.13600
 
 📚**Dataset**：
 
-We evaluate MaskCL on Six datasets:
+We evaluate SiCL on Six datasets:
  
 | Dataset | Link |
 | ------- | ------- 
@@ -33,9 +33,9 @@ We evaluate MaskCL on Six datasets:
 
 :speech_balloon: **Remark**:
 
-In MaskCL, during the training process, it needs to prepare the original dataset along with the corresponding dataset of person masks.
+In SiCL, during the training process, it needs to prepare the original dataset along with the corresponding dataset of person masks.
 
-The mask images used in the **MaskCL** are generated based on human parsing networks. 
+The mask images used in the **SiCL** are generated based on human parsing networks. 
 
 In this study, we employed [SCHP](https://github.com/GoGoDuck912/Self-Correction-Human-Parsing) for pedestrian silhouette extraction. 
 
@@ -47,7 +47,7 @@ After generating the corresponding mask image dataset, you should change the dat
 
 
 
-:heart: **We extend a warm invitation to researchers to venture into exploring diverse approaches in generating pedestrian semantic information and conducting experiments on MaskCL. 
+:heart: **We extend a warm invitation to researchers to venture into exploring diverse approaches in generating pedestrian semantic information and conducting experiments on SiCL. 
 
 :heart:We are greatly anticipating the researchers' invaluable contributions in terms of sharing and providing feedback on their experimental outcomes!**
 
