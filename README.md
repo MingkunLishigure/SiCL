@@ -1,7 +1,7 @@
-# MaskCL: Semantic Mask-Driven Contrastive Learning for Unsupervised Person Re-Identification with Clothes Change
+# SiCL: Silhouette-Driven Contrastive Learning for Unsupervised Person Re-Identification with Clothes Change
 
  
-:rocket: MaskCL is dedicated to an innovative task: **unsupervised clothes changing person re-identification**. 
+:rocket: SiCL is dedicated to an innovative task: **unsupervised clothes changing person re-identification**. 
 
 :star: Within the realm of clothing changing person re-identification, MaskCL proudly stands as the inaugural unsupervised methodology to attain commendable outcomes across a multitude of datasets!!!
 
