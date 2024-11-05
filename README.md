@@ -60,6 +60,4 @@ After generating the corresponding mask image dataset, you should change the dat
 sh run_code.sh
 ```
 
-:loudspeaker: We will release the model weight soon!
-
 
