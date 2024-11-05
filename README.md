@@ -6,11 +6,11 @@
 :star: Within the realm of clothing changing person re-identification, SiCL proudly stands as the inaugural unsupervised methodology to attain commendable outcomes across a multitude of datasets!!!
 
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/SiCL-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-ltcc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-ltcc?p=SiCL-semantic-mask-driven-contrastive)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maskcl-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-ltcc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-ltcc?p=maskcl-semantic-mask-driven-contrastive)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/SiCL-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-vc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-vc?p=SiCL-semantic-mask-driven-contrastive)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maskcl-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-prcc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-prcc?p=maskcl-semantic-mask-driven-contrastive)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/SiCL-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-prcc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-prcc?p=SiCL-semantic-mask-driven-contrastive)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/maskcl-semantic-mask-driven-contrastive/unsupervised-person-re-identification-on-vc)](https://paperswithcode.com/sota/unsupervised-person-re-identification-on-vc?p=maskcl-semantic-mask-driven-contrastive)
 
 :heart: We warmly welcome and encourage fellow researchers to engage in enlightening discussions and exchanges on this topic!!!
 
